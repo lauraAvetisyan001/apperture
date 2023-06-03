@@ -1,0 +1,17 @@
+.icons{
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    display: flex;
+}
+
+
+.icon_item{
+    display: inline-block;
+    padding-right: 15px;
+    font-size: 15px;
+    padding-left: 10px;
+    font-weight: 400px;
+    color: #fff; 
+    cursor: pointer;
+}

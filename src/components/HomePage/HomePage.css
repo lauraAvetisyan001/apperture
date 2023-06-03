@@ -1,0 +1,42 @@
+.home_page_container{
+    width: 1440px;
+    height: 737px;
+    background-image: url('../../assets/img/BACK_IMAGE.jpg');
+}
+
+.content{
+    text-align: center;
+    padding-top: 350px;
+    color: #fff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #C0C0C0;
+}
+
+.item{
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+
+.content_item{
+    font-size: 54px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+.content_text{
+    padding-left: 430px;
+    width: 580px;
+    height: 80px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #C0C0C0;
+    padding-top: 19px;
+}

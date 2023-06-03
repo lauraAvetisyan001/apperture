@@ -1,0 +1,56 @@
+.featured_images_container{
+    width: 1440px;
+    height: 737px;
+    background-color: #000000;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(255, 252, 252)
+}
+
+.slider{
+    padding-top: 50px;
+}
+
+.prev_btn, .next_btn{
+    height: 600px;
+    position: absolute;
+    width: 50px;
+    cursor: pointer;
+    background-color: rgb(255, 252, 252);
+    border: 1px solid transparent;
+    opacity: 0.1;
+    color: #010101;
+    font-size: 17px;
+}
+
+.prev_btn{
+    left: 0;
+}
+
+.next_btn{
+    right: 0;
+}
+
+.prev_btn:hover, .next_btn:hover{
+    background-color: #949191;
+}
+
+.about_img{
+    width: 370px;
+    position: absolute;
+    top: 500px;
+    right: 100px;
+}
+
+
+.slider_name, .slider_description{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+
+.slider_name{
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}

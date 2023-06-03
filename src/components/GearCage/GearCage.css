@@ -1,0 +1,65 @@
+.gear_cage_content{
+    width: 100%;
+    background-color: #333333;
+    height: 737px;
+}
+
+.gear_cage_content{
+    padding-top: 7%;
+}
+
+.about_gear_cage{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+
+}
+
+
+.gear_cage_img{
+    position: absolute;
+    right: 0;
+}
+
+
+.gear_cage_name{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #C0C0C0;
+}
+
+.gear_cage_title{
+    font-size: 28px;
+    line-height: 32px;
+    padding-top: 10px;
+
+}
+
+
+.gear_cage_description{
+    width: 515px;
+    padding-top: 10px;
+}
+
+
+.gear_cage_btn{
+    width: 130px;
+    margin-top: 19px;
+    height: 40px;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+    background-color: #FFFFFF;
+    border-radius: 14px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    cursor: pointer;
+}
